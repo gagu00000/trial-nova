@@ -2,9 +2,8 @@ streamlit
 pandas
 numpy
 plotly
-altair
+scikit-learn
 matplotlib
 seaborn
-scikit-learn
 folium
 pydeck
